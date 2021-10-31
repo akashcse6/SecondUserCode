@@ -5,6 +5,11 @@ public class MyClass {
         {
             System.out.println(i);
             // comment line added
+            for (int j=0;j<=10;j++) {
+
+                System.out.println(i+" "+j);
+                // second loop added
+            }
         }
         
     }
